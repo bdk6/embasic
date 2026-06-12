@@ -9,7 +9,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int realmain() {
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
 	return 0;
 }

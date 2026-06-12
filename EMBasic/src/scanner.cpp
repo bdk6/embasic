@@ -76,6 +76,8 @@ int main(int argc, char **argv)
    //printf("\nEOF is %d and c is %d\n", EOF, c);
    fclose(infile);
    */
+
+	printf("Hello, compiler\n");
    Symbol::clear_table();
 
    Token tok;
